@@ -1,6 +1,15 @@
 <h1>Hi 👋, I'm Shobhit Mishra</h1>
 <p>A passionate Full-Stack Developer</p>
 
+<h2>🏆 Competitive Programming</h2>
+<p>
+  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+         width="40" height="40" alt="LeetCode Logo"/>
+    &nbsp; LeetCode: <strong>shobhhit_mishra</strong>
+  </a>
+</p>
+
 <h2>🎨 Frontend</h2>
 <p>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42"/></a>
@@ -43,4 +52,3 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42"/></a>
 </p>
-
