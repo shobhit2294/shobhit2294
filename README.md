@@ -46,6 +46,7 @@ I enjoy turning ideas into robust software, exploring intelligent automation, an
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-354%20Problems-FF6B6B?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-Available-512BD4?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-13%20Problems-4169E1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C-5%20Problems-00ADD8?style=flat-square&logo=c&logoColor=white" />
 </p>
@@ -93,6 +94,7 @@ I enjoy turning ideas into robust software, exploring intelligent automation, an
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
