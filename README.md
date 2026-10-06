@@ -38,41 +38,50 @@ I enjoy turning ideas into robust software, exploring intelligent automation, an
 
 ## 🏆 LeetCode Achievements
 
+### LeetCode Profile Stats
+
 <p align="center">
   <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
-    <img src="https://leetcode-badge.huluvu424242.cn/shobhhit_mishra?theme=dark" alt="LeetCode Badge" width="100%"/>
+    <img src="https://img.shields.io/badge/LeetCode%20Problems%20Solved-372%2B-FFA500?style=for-the-badge&logo=leetcode" alt="LeetCode Problems" />
   </a>
 </p>
 
 <p align="center">
-  <strong>📊 Problems Solved: 372+</strong><br>
-  <strong>💻 Languages:</strong> C++ (354) | MySQL (13) | C (5)<br>
-  <strong>🔥 Achievement:</strong> 100 Days Streak Badge
+  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
+    <img src="https://img.shields.io/badge/C%2B%2B%20-354%20Problems-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Problems" />
+  </a>
+  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-13%20Problems-4169E1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Problems" />
+  </a>
 </p>
-
-### LeetCode Stats Overview
 
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/shobhhit_mishra?theme=dark" alt="LeetCode Stats" width="100%"/>
+  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
+    <img src="https://img.shields.io/badge/Easy-150%2B-green?style=flat-square" alt="Easy Problems" />
+  </a>
+  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-160%2B-orange?style=flat-square" alt="Medium Problems" />
+  </a>
+  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
+    <img src="https://img.shields.io/badge/Hard-60%2B-red?style=flat-square" alt="Hard Problems" />
+  </a>
 </p>
 
-### All LeetCode Badges
+### All 4 LeetCode Badges
 
 <div align="center">
 
-| Badge | Details | Status |
-|-------|---------|--------|
-| 🏆 **LeetCode Profile** | Total Problems: 372+ | ⭐⭐⭐⭐⭐ |
-| 🔥 **100 Days Streak** | Consistent Daily Coding | ✅ Completed |
-| 💻 **C++ Specialist** | 354 Problems Solved | 🥇 Expert |
-| 📊 **SQL Expert** | MySQL + Database Queries | 🥈 Advanced |
+| Badge | Achievement | Status |
+|:-----:|:------------:|:------:|
+| 🏆 | **LeetCode Champion** | 372+ Problems |
+| 🔥 | **100 Days Streak** | Completed ✅ |
+| 💻 | **C++ Specialist** | 354 Solutions |
+| 📊 | **SQL Expert** | 13+ Queries |
 
 </div>
 
 <p align="center">
-  <strong>🎯 Overall Rating:</strong> Top Contributor<br>
-  <strong>📈 Difficulty Breakdown:</strong><br>
-  Easy: 150+ | Medium: 160+ | Hard: 60+
+  <strong>🎯 LeetCode Profile:</strong> <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">shobhhit_mishra</a>
 </p>
 
 ---
@@ -208,28 +217,28 @@ A beginner-friendly open-source contribution guide to help people start contribu
 
 ## 📊 GitHub Statistics & Activity
 
-### GitHub Stats Overview
+### Overall GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobhit2294&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit2294&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=e6edf3&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats" />
 </p>
 
-### GitHub Contribution Streak
+### Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit2294&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shobhit2294&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=FFA500&dates=e6edf3" alt="GitHub Streak" />
 </p>
 
-### GitHub Activity Graph
+### Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit2294&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit2294&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph" />
 </p>
 
-### Top Languages Used
+### Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit2294&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit2294&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3" alt="Top Languages" />
 </p>
 
 ---
@@ -244,15 +253,15 @@ I like solving real-world problems with software. Whether it is data, intelligen
 
 I'm open to collaboration, software engineering opportunities, and building meaningful projects.
 
-- LinkedIn: [shobhit-mishra-2294](https://linkedin.com/in/shobhit-mishra-2294)
-- GitHub: [shobhit2294](https://github.com/shobhit2294)
-- Email: [shobhit2294@gmail.com](mailto:shobhit2294@gmail.com)
-- LeetCode: [shobhhit_mishra](https://leetcode.com/u/shobhhit_mishra/)
+- **LinkedIn:** [shobhit-mishra-2294](https://linkedin.com/in/shobhit-mishra-2294)
+- **GitHub:** [shobhit2294](https://github.com/shobhit2294)
+- **Email:** [shobhit2294@gmail.com](mailto:shobhit2294@gmail.com)
+- **LeetCode:** [shobhhit_mishra](https://leetcode.com/u/shobhhit_mishra/)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shobhit2294&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shobhit2294&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <div align="center">
