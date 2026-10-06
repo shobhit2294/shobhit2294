@@ -38,50 +38,31 @@ I enjoy turning ideas into robust software, exploring intelligent automation, an
 
 ## 🏆 LeetCode Achievements
 
-### LeetCode Profile Stats
-
 <p align="center">
   <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode%20Problems%20Solved-372%2B-FFA500?style=for-the-badge&logo=leetcode" alt="LeetCode Problems" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
-    <img src="https://img.shields.io/badge/C%2B%2B%20-354%20Problems-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ Problems" />
-  </a>
-  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-13%20Problems-4169E1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Problems" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
-    <img src="https://img.shields.io/badge/Easy-150%2B-green?style=flat-square" alt="Easy Problems" />
-  </a>
-  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-160%2B-orange?style=flat-square" alt="Medium Problems" />
-  </a>
-  <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">
-    <img src="https://img.shields.io/badge/Hard-60%2B-red?style=flat-square" alt="Hard Problems" />
+    <img src="https://img.shields.io/badge/LeetCode-372%2B%20Solved-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 ### All 4 LeetCode Badges
 
-<div align="center">
-
-| Badge | Achievement | Status |
-|:-----:|:------------:|:------:|
-| 🏆 | **LeetCode Champion** | 372+ Problems |
-| 🔥 | **100 Days Streak** | Completed ✅ |
-| 💻 | **C++ Specialist** | 354 Solutions |
-| 📊 | **SQL Expert** | 13+ Queries |
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-354%20Problems-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-13%20Problems-4169E1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 <p align="center">
-  <strong>🎯 LeetCode Profile:</strong> <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">shobhhit_mishra</a>
+  <img src="https://img.shields.io/badge/Easy-150%2B-28a745?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medium-160%2B-ffc107?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hard-60%2B-dc3545?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/100%20Days%20Streak-Completed-FFD700?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <strong>📊 Profile:</strong> <a href="https://leetcode.com/u/shobhhit_mishra/" target="_blank">shobhhit_mishra</a>
 </p>
 
 ---
@@ -215,30 +196,18 @@ A beginner-friendly open-source contribution guide to help people start contribu
 
 ---
 
-## 📊 GitHub Statistics & Activity
-
-### Overall GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shobhit2294&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&text_color=e6edf3&title_color=00d9ff&icon_color=00d9ff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhit2294&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-### Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shobhit2294&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=FFA500&dates=e6edf3" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit2294&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### Contribution Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit2294&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="GitHub Activity Graph" />
-</p>
-
-### Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit2294&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=e6edf3" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit2294&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
