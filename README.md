@@ -44,21 +44,29 @@ I enjoy turning ideas into robust software, exploring intelligent automation, an
   </a>
 </p>
 
-### All 4 LeetCode Badges
-
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-354%20Problems-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-13%20Problems-4169E1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-354%20Problems-FF6B6B?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-13%20Problems-4169E1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-5%20Problems-00ADD8?style=flat-square&logo=c&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Easy-150%2B-28a745?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Medium-160%2B-ffc107?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hard-60%2B-dc3545?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Easy-150%2B-28a745?style=flat-square" />
+  <img src="https://img.shields.io/badge/Medium-160%2B-ffc107?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hard-60%2B-dc3545?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/100%20Days%20Streak-Completed-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/100%20Days%20Badge-Completed-FFD700?style=flat-square" />
+</p>
+
+### History Awards
+
+<p align="center">
+  <img src="https://img.shields.io/badge/100%20Days%20Badge-2026--08--29-FFD43B?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/50%20Days%20Badge-2026--03--18-2ECC71?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/50%20Days%20Badge-2026--03--18-00C853?style=flat-square&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Aug%20Badge-2026--08--31-FF4D6D?style=flat-square&logo=leetcode&logoColor=white" />
 </p>
 
 <p align="center">
